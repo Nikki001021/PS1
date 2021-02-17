@@ -1,0 +1,36 @@
+CS210 ps1results.txt Yuchen Li
+
+/tmp/tmp.1ZCAIeTMHw/cmake-build-cmk-docker/PS1
+Could not chdir to home directory /home/cs210: No such file or directory
+Enter a mathematical expression using the following operators (+, -, *, /, ^, $): 123.456+567.890
+123.456+567.890
+Result: <691.35>
+Would you like to enter another expression? (Yes = 1; No = 0): 1
+1
+Enter a mathematical expression using the following operators (+, -, *, /, ^, $): 123.456-567.890
+123.456-567.890
+Result: <-444.43>
+Would you like to enter another expression? (Yes = 1; No = 0): 1
+1
+Enter a mathematical expression using the following operators (+, -, *, /, ^, $): 123.456*567.890
+123.456*567.890
+Result: <70109.43>
+Would you like to enter another expression? (Yes = 1; No = 0): 1
+1
+Enter a mathematical expression using the following operators (+, -, *, /, ^, $): 123.456/567.890
+123.456/567.890
+Result: <0.22>
+Would you like to enter another expression? (Yes = 1; No = 0): 1
+1
+Enter a mathematical expression using the following operators (+, -, *, /, ^, $): 4^8
+4^8
+Result: <65536.00>
+Would you like to enter another expression? (Yes = 1; No = 0): 1
+1
+Enter a mathematical expression using the following operators (+, -, *, /, ^, $): 4$8
+4$8
+Result: <65536.00>
+Would you like to enter another expression? (Yes = 1; No = 0): 0
+0
+Bye!
+Process finished with exit code 0
